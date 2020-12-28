@@ -1,0 +1,39 @@
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+.navbar-inverse{
+    background-color: black;
+    color: red;
+}
+#date{
+    font-size: 10px;
+    color: green;
+}
+.lynx {
+    display: inline;
+    font-family: fantasy;
+    color: goldenrod;
+    background-color: red;
+    padding-bottom: 10px;
+     padding-left: 6px;
+     padding-right: 6px;
+     padding-top: 10px;
+}
+
+.lynx:hover {
+    background-color: silver;
+    font-family: 'Righteous', cursive;
+}
+body{
+    text-align: center;
+    
+}
+marquee{
+ font-size: 50px;   
+}
+h2{
+    font-size: 15px;
+    font-family: 'Amatic SC', cursive;
+}
